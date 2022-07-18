@@ -1,0 +1,23 @@
+* {
+    /* background-color: rgb(29, 179, 179); */
+    font-family: 'Verdana', 'Times New Roman', sans-serif;
+    font-size: 24px;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+div {
+    text-align: center;
+}
+
+ul, ol {
+    display: inline-block;
+    text-align: left;
+}
+
+ol {
+    width: 1000px;
+}
